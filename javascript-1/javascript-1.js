@@ -227,7 +227,7 @@ let pairsArray = []
 /*
     Write a function called 'teachTrick' that will take in one parameter, trick, 
     and push that trick into a trick's array and return the updated array.
-    You will give context to 'techTrick' using the .bind method.
+    You will give context to 'teachTrick' using the .bind method.
     Tricks will come from that context, so you should reference 'this.tricks' to access the correct array.
 */
 
